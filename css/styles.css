@@ -419,7 +419,15 @@ ul {
 }
 
 .footer-form .button {
+  display: inline-flex;
+  align-items: center;
   margin-top: auto;
+}
+
+.footer-form-icon {
+  margin-left: auto;
+  width: 24px;
+  height: 24px;
 }
 
 /* Главная страница */
