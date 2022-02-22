@@ -774,18 +774,6 @@ ul {
   transition: opacity var(--animation);
 }
 
-/* .form-checkbox:checked + .checkbox-icon {
-  background-color: var(--accent-text-color);
-  border-color: transparent;
-  border-radius: 2px;
-  width: 16px;
-  height: 15px;
-  background-image: url(../images/icons/modal-icons/modal-сheckbox.svg);
-  background-size: contain;
-  background-origin: border-box;
-  background-repeat: no-repeat;
-} */
-
 .checked-icon {
   position: absolute;
 
